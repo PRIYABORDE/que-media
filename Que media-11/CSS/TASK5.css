@@ -1,0 +1,33 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+div {
+
+    text-align: center;
+    color: aliceblue;
+}
+.box1{ 
+    background-color: rgb(38, 36, 36);  
+    float: left;
+    height: 600px;
+    width: 60px;
+ }
+ .box2{
+    background-color: rgb(13, 249, 155);
+    height: 300px;
+ }
+ .box3{
+    background-color: rgb(246, 178, 21);
+    height: 300px;
+    
+ }
+ .box4{
+   grid-area: box1/box2;
+    background-color: rgb(38, 36, 36);
+    float: right;
+    height: 600px;
+    width: 60px;
+    
+ }
+ 

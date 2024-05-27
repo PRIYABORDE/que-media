@@ -1,0 +1,16 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.nav{
+    background-color:black;
+}
+h4{
+padding: 11px;
+text-align: center;
+}
+a{
+    color: aliceblue;
+    margin-right: 150px;
+    text-underline-offset: none;
+}
